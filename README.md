@@ -35,6 +35,7 @@
 
 - 데이터베이스 설계
 
-![image](https://user-images.githubusercontent.com/102206023/195565357-7a390315-1ba7-4cb6-90fa-396c49910960.png)
+![image](https://user-images.githubusercontent.com/102206023/195566853-41ee6c7e-8948-4b12-bf21-290ddf1e482b.png)
+
 
 
