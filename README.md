@@ -1,4 +1,5 @@
 # **식품 유통기한 관리 O2O 서비스 플랫폼**
+웹 애플리케이션: https://aibcp1.herokuapp.com/
 
 ![image](https://user-images.githubusercontent.com/102206023/195536916-f5951d3d-2520-499e-bf7d-539a4bd06727.png)
 
