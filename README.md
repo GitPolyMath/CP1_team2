@@ -29,4 +29,12 @@
 
 ### 3. 프로젝트 데이터 파이프라인
 
-![3D_CP1](https://user-images.githubusercontent.com/102206023/195539768-cd9811d5-82aa-4f82-b64f-2b1a5276fe64.png)
+- 데이터 파이프라인
+
+![image](https://user-images.githubusercontent.com/102206023/195565547-386ed1fe-2a73-4271-a201-7aab544198b2.png)
+
+- 데이터베이스 설계
+
+![image](https://user-images.githubusercontent.com/102206023/195565357-7a390315-1ba7-4cb6-90fa-396c49910960.png)
+
+
